@@ -137,7 +137,7 @@ public class Calculator extends JFrame {
 		mntmExit.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
 		mnFile.add(mntmExit);
 		
-		JLabel lblByGhassenBen = new JLabel("By Bleon and Eljon");
+		JLabel lblByGhassenBen = new JLabel("By Bleon, Eljon and Zani");
 		lblByGhassenBen.setFont(new Font("Ubuntu Light", Font.PLAIN, 10));
 		lblByGhassenBen.setForeground(new Color(0, 0, 0));
 		menuBar.add(lblByGhassenBen);
